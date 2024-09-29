@@ -41,7 +41,7 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanTk03&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RyanTk03&repo=RyanTk0&theme=default&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RyanTk03&repo=RyanTk03&theme=default&cache_seconds=1800&border_radius=4&show_owner=false" alt="GitHub repo-card Card" />
 </p>
 
-<a href="https://app.daily.dev/rayanetoko"><img src="https://github.com/RyanTk03/RyanTk03/blob/main/devcard.svg" max-width="400" alt="Rayane TOKO's Dev Card"/></a>
+<a href="https://app.daily.dev/rayanetoko"><img src="https://github.com/RyanTk03/RyanTk03/blob/main/devcard.svg" width="400" alt="Rayane TOKO's Dev Card"/></a>
