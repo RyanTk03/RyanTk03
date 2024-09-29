@@ -1,5 +1,5 @@
 <p align="center">
-![👋 Hi, my name is Rayane TOKO](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+<img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" width="400" alt="👋 Hi, my name is Rayane TOKO"/
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=RyanTk03&label=Profile%20views&color=0e75b6&style=flat)
