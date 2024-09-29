@@ -21,7 +21,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a real estate business plateform**
+- 💼 I'm currently working on: **💻 Developing an innovative real estate platform to connect clients with property owners.**
 - 🌱 I'm currently learning: **📚 Exploring Laravel(the best web framework in my opinion )🚶**
 - 💬 Ask me about: **💡 JavaScript, React, Next.js, Astro, Node.js, MongoDB, and RESTful APIs, PHP, Laravel, or even Cobol**
 - ⚡ Fun fact: **🎢 I once debugged a issue while I was sleeping!🙂**
