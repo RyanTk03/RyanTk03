@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="👋 Hi, my name is Rayane TOKO"/
+<img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="👋 Hi"/
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=RyanTk03&label=Profile%20views&color=0e75b6&style=flat)
@@ -22,7 +22,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 🌱 I'm currently learning: **📚 Exploring Laravel(the best web framework in my opinion )🚶**
-- 💬 Ask me about: **💡 JavaScript, React, Next.js, Astro, Node.js, MongoDB, and RESTful APIs, PHP, Laravel, or even Cobol**
+- 💬 Ask me about: **💡 JavaScript, React, Next.js, Astro, Node.js, MongoDB, and RESTful APIs, PHP, Laravel, or even COBOL**
 - ⚡ Fun fact: **🎢 I once debugged a issue while I was sleeping!🙂**
 - 📂 Portfolio: **<a href="📂 https://rayanetoko.netlify.app" target="_blank">📂 https://rayanetoko.netlify.app</a>**
 - 📝 Blog: **<a href="📝 https://rayanetoko.hashnode.dev/" target="_blank">📝 https://rayanetoko.hashnode.dev/</a>**
