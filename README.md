@@ -8,7 +8,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Rayane TOKO
+        👋 Hi
       </h1>
     </summary>
   </ul>
